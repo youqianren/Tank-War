@@ -38,3 +38,4 @@ p13: 按下ctrl键打出子弹
      因为在TankClient类绘制子弹，所以返回TankClient类下的Missile 类型，使TankClient类知道myMissile是否为空
      4.使子弹从坦克正中央发射出
 p14: 绘制炮筒
+P15: 打出多发炮弹
